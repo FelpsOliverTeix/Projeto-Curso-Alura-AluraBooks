@@ -1,13 +1,13 @@
 .cabeçalho__menu-hamburger{
     width: 10px;
     height: 24px;
-    background-image: url("../imgs/Menu.svg");
+    background-image: url("./imgs/Menu.svg");
     background-position: center;
     background-repeat: no-repeat;
     display: inline-block;
 }
 .container__botao:checked~.container__rotulo > .cabeçalho__menu-hamburger{
-    background-image: url("/imgs/menu_black_24dp\ 1.svg");
+    background-image: url("./imgs/menu_black_24dp\ 1.svg");
 }
 .container__botao:checked~.container__rotulo {
     background: var(--azul-degrade);
