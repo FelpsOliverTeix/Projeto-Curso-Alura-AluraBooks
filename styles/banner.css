@@ -26,7 +26,7 @@
     font-weight: 400;
     text-align: center;
     color: var(--branco);
-    background: url("../imgs/Pesquisa.svg") no-repeat;
+    background: url("./imgs/Pesquisa.svg") no-repeat;
     background-position: 1em;
 }
 
